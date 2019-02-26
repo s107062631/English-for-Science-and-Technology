@@ -2,7 +2,7 @@
 ## Introduction
 * [Notes](https://hackmd.io/EoPQ5c3OQLmiIfbYZwg7yg)
 ## Chapter1
-* [Notes](https://hackmd.io/WQ-jubBVQCatPkxBrbvviQ
+* [Notes](https://hackmd.io/WQ-jubBVQCatPkxBrbvviQ)
 ## Chapter 2
 * [Notes](https://hackmd.io/x-AtbBSJR_iExCwnOIpFGA)
 ## Chapter 3
