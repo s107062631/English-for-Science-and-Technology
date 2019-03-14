@@ -15,7 +15,7 @@
 * [Notes](https://hackmd.io/SL7gWoecRkOTH4JpCTN0mw)
 ## The element of style
 * [Notes](https://hackmd.io/DJCczP0ZS269xfbUHTIXNQ)
-* [Homework2](https://docs.google.com/document/d/1cFLLMRtgGknixJyUJ8gq5fdh7e2AvmzYjkiSs0Q-f5I/edit)
+* [Homework3](https://docs.google.com/document/d/1cFLLMRtgGknixJyUJ8gq5fdh7e2AvmzYjkiSs0Q-f5I/edit)
 ## Unit One: An approach to Academic writing
 * [Notes](https://hackmd.io/k8y9sXMdTHufw8S_SCaWwA)
 ## Unit Two: General-Specific and Specific-General Texts
